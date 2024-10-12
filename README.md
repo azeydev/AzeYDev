@@ -19,10 +19,10 @@ Im currently working on my first SPRX Mod Menu for Minecraft PS3 named "KaguraCl
 <table align="center">
   <tr>
     <td align="center" width="45%">
-        <a href="#-my-github-stats--"><img width="100%" src="[https://gh-readme-profile.vercel.app/api?username=AzeYDev&theme=shadow_purple&hide=prs,prs_merged,issues]" alt="AzeYDev" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=AzeYDev&theme=shadow_purple&hide=prs,prs_merged,issues" alt="AzeYDev" /></a>
     </td>
     <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img width="100%" src="[http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzeYDev&theme=vision_friendly_dark] alt="AzeYDev" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzeYDev&theme=vision_friendly_dark" alt="AzeYDev" /></a>
     </td>
   </tr>
   <tr>
