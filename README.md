@@ -1,6 +1,6 @@
 # AzeY's Profile
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-takanashi-rikka-gifs&psig=AOvVaw3LNAHL5FyyS79naYTTxq4k&ust=1729609128998000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDxzZ_en4kDFQAAAAAdAAAAABAb">
+<img src="https://media.tenor.com/PTxbRvvsyzoAAAAM/rikka-takanashi-takanashi-rikka.gif">
 
 ## About Me
 
