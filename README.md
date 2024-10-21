@@ -1,7 +1,10 @@
 # AzeY's Profile
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-takanashi-rikka-gifs&psig=AOvVaw3LNAHL5FyyS79naYTTxq4k&ust=1729609128998000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDxzZ_en4kDFQAAAAAdAAAAABAb">
+
 ## About Me
 
-I'm AzeY, a beginner developer who are passionate by the computer science! I learn C++, HTML, CSS & Javascript.
+Hey! I'm AzeY, a beginner developer who are passionate by the computer science! I learn C++, HTML, CSS & Javascript.
 Im currently working on my first SPRX Mod Menu for Minecraft PS3 named "KaguraClient V2", if you want more infos pass discord: azeylebg
 
 ## Interests
