@@ -15,7 +15,7 @@ Im currently working on my first SPRX Mod Menu for Minecraft PS3 named "KaguraCl
 
 ## Current Learning Journey
 
-- Expanding skills in C++.
+- Expanding skills in C++, HTML & CSS, Python.
 
 ## Github Stats
 
