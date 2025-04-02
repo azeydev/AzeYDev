@@ -1,6 +1,7 @@
 # AzeY's Profile
 
 <img src="https://i.pinimg.com/originals/43/35/fe/4335fe85e8fc136ab6d5da96dcd9a122.gif">
+<img src="https://komarev.com/ghpvc/?username=azeydev&color=blueviolet" alt=""/>
 
 ## About Me
 
