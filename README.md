@@ -1,6 +1,6 @@
 # AzeY's Profile
 
-<img src="https://media.tenor.com/PTxbRvvsyzoAAAAM/rikka-takanashi-takanashi-rikka.gif">
+<img src="https://i.pinimg.com/originals/43/35/fe/4335fe85e8fc136ab6d5da96dcd9a122.gif">
 
 ## About Me
 
