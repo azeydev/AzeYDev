@@ -34,7 +34,7 @@ Im currently working on my first SPRX Mod Menu for Minecraft PS3 named "KaguraCl
         <a href="#-my-discord-status--"><img width="100%" src="https://lanyard.cnrad.dev/api/855544786357059586" alt="AzeYDev" /></a>
     </td>
     <td align="center" width="60%">
-        <a href="#-my-github-stats--"><img src="https://github-readme-stats.vercel.app/api?username=azeydev&theme=radical&show_icons=true" alt="AzeYDev" /></a>
+        <a href="#-my-github-stats--"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeydev&layout=compact&theme=radical" alt="AzeYDev" /></a>
     </td>
   </tr>
 </table>
