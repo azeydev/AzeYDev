@@ -5,7 +5,8 @@
 
 ## About Me
 
-Hey! I'm AzeY, a beginner developer who are passionate by the computer science! I learn C++, HTML, CSS & Javascript.
+Hey! I'm AzeY, a beginner developer who are passionate by the computer science! 
+I learn C++, HTML, CSS & Javascript.
 Im currently working on my first SPRX Mod Menu for Minecraft PS3 named "KaguraClient V2", if you want more infos pass discord: azeydev
 
 ## Interests
